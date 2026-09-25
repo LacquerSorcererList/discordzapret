@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# LacquerSorcererList/discordzapret 8af4972d9643
